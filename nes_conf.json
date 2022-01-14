@@ -1,0 +1,15 @@
+{
+    "games_lang":       "en",
+    "games_dir":        ".",
+    "images_dir":       "images",
+    "manuals_dir":      "manuals",
+    "videos_dir":       "videos",
+    "gamelist":         "gamelist.xml",
+    "gamedata":         "gamedata.json",
+    "game_types":       "(.nes|.unif|.unf|.zip|.7z)$",
+    "image_types":      "(.png|.jpg|.jpeg|.tiff|.gif)$",
+    "video_types":      "(.mp4|.avi)$",
+    "manual_types":     "(.pdf)$",
+    "path":             "J:\\nes",
+    "system":           "nes"
+}
